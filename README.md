@@ -1,15 +1,5 @@
 # DEPI Project: Penetration Testing Report on Metasploitable2
 
-## Team Members
-- Shady Mohamed Abdel Gawad
-- Hussein Al-Yamnii Zain Al-Deen
-- Ziad Alaa
-- Mohamed Ashraf Mohamed Lotfy
-- Omar Ahmed Badr
-- Abdel Rahman Ahmed Abdel Hamid
-  
----
-
 This project provided a comprehensive overview of penetration testing processes and methodologies by focusing on **Metasploitable 2**, a deliberately vulnerable virtual machine designed for security training purposes. Through systematic phases—footprinting, scanning, vulnerability assessment, and exploitation—we identified and exploited critical vulnerabilities in widely-used services such as Apache Tomcat, Samba, MySQL, and others.
 
 ### Key Findings
@@ -29,3 +19,13 @@ To further secure environments such as Metasploitable 2, organizations should:
 - Implement monitoring and logging mechanisms to detect unauthorized activities.
 
 This project serves as a hands-on demonstration of the potential impacts of vulnerabilities in unprotected systems and underscores the critical role of proactive security measures in maintaining robust cybersecurity defenses.
+
+---
+
+## Team Members
+- Shady Mohamed Abdel Gawad
+- Hussein Al-Yamnii Zain Al-Deen
+- Ziad Alaa
+- Mohamed Ashraf Mohamed Lotfy
+- Omar Ahmed Badr
+- Abdel Rahman Ahmed Abdel Hamid
