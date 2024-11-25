@@ -23,10 +23,11 @@ This project serves as a hands-on demonstration of the potential impacts of vuln
 ---
 ## Team
 
-| [Shady Mohamed Abdel Gawad] | [ Hussein Al-Yamnii Zain Al-Deen] | [Mohamed Ashraf Mohamed Lotfy] | [Abdel Rahman Ahmed Abdel Hamid] | [Omar Ahmed Badr] | [Ziad Alaa]
+| [**Shady Mohamed Abdel Gawad**] | [**Hussein Al-Yamnii Zain Al-Deen**] | [**Mohamed Ashraf Mohamed Lotfy**] | [**Abdel Rahman Ahmed Abdel Hamid**] | [**Omar Ahmed Badr**] | [**Ziad Alaa**]
 |--------------------|:---------------------:|
 | ![image](https://github.com/user-attachments/assets/edcb8ec3-a9d1-426d-8a58-335fc76bd208) | ![image](https://github.com/user-attachments/assets/dfffa222-6d46-4c2e-93c7-01aaa26502db)
- | ![image](https://github.com/user-attachments/assets/80e98e86-51c1-47e5-98bb-9decf3fccb1e) | ![image](https://github.com/user-attachments/assets/c85d07e0-1585-4f45-b7e7-3c2bfca85af2)
+ | ![image](https://github.com/user-attachments/assets/0aababcf-c388-4064-9b0b-cb215a0bf056)
+ | ![image](https://github.com/user-attachments/assets/80980a38-b841-4f66-8dc2-a99a871bcaf9)
  
 
 ## Team Members
