@@ -1,7 +1,7 @@
 # DEPI Project: Penetration Testing Report on Metasploitable2
 
 |--------------------|:---------------------:|
-| ![depiEN](https://github.com/user-attachments/assets/92658cc5-7885-400b-9276-714dff146dfe) | ![MCEN](https://github.com/user-attachments/assets/281ff81b-1bfe-4080-b319-025306930a34)
+| ![depiEN](https://github.com/user-attachments/assets/92658cc5-7885-400b-9276-714dff146dfe) | ![MCEN](https://github.com/user-attachments/assets/281ff81b-1bfe-4080-b319-025306930a34) |
 
 This project provided a comprehensive overview of penetration testing processes and methodologies by focusing on **Metasploitable 2**, a deliberately vulnerable virtual machine designed for security training purposes. Through systematic phases—footprinting, scanning, vulnerability assessment, and exploitation—we identified and exploited critical vulnerabilities in widely-used services such as Apache Tomcat, Samba, MySQL, and others.
 
