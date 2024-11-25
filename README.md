@@ -29,6 +29,11 @@ This project serves as a hands-on demonstration of the potential impacts of vuln
  | ![image](https://github.com/user-attachments/assets/0aababcf-c388-4064-9b0b-cb215a0bf056)
  | ![image](https://github.com/user-attachments/assets/80980a38-b841-4f66-8dc2-a99a871bcaf9)
  
+## Team
+
+| [Mahmoud Mohamed](https://github.com/mmsaeed509) | [Abdallah Adham](https://github.com/0xSkorpioN) |
+|--------------------|:---------------------:|
+| <img align="left" width="125" height="125" src="/Images/ozil.png" /> | <img align="left" width="125" height="125" src="/Images/skorpion.png" /> | 
 
 ## Team Members
 - Shady Mohamed Abdel Gawad
