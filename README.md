@@ -31,7 +31,7 @@ This project serves as a hands-on demonstration of the potential impacts of vuln
  
 ## Team
 
-| [**Shady Mohamed Abdel Gawad**](https://github.com/mmsaeed509) | [Abdallah Adham](https://github.com/0xSkorpioN) |
+| [**Shady Mohamed Abdel Gawad**] | [Abdallah Adham](https://github.com/0xSkorpioN) |
 |--------------------|:---------------------:|
 | ![image](https://github.com/user-attachments/assets/edcb8ec3-a9d1-426d-8a58-335fc76bd208) | <img align="left" width="125" height="125" src="/Images/skorpion.png" /> | 
 
