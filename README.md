@@ -2,7 +2,7 @@
 
 ![depiEN](https://github.com/user-attachments/assets/92658cc5-7885-400b-9276-714dff146dfe) 
 
-This project provided a comprehensive overview of penetration testing processes and methodologies by focusing on **Metasploitable 2**#### [**Metasploitable 2**](https://www.vulnhub.com/entry/metasploitable-2,29/), a deliberately vulnerable virtual machine designed for security training purposes. Through systematic phases—footprinting, scanning, vulnerability assessment, and exploitation—we identified and exploited critical vulnerabilities in widely-used services such as Apache Tomcat, Samba, MySQL, and others.
+This project provided a comprehensive overview of penetration testing processes and methodologies by focusing on [**Metasploitable 2**](https://www.vulnhub.com/entry/metasploitable-2,29/), a deliberately vulnerable virtual machine designed for security training purposes. Through systematic phases—footprinting, scanning, vulnerability assessment, and exploitation—we identified and exploited critical vulnerabilities in widely-used services such as Apache Tomcat, Samba, MySQL, and others.
 
 ### Key Findings
 1. **Critical Vulnerabilities**: Services such as Apache Tomcat, Samba, and PostgreSQL presented high-risk vulnerabilities that could lead to unauthorized remote access or system compromise.
