@@ -21,24 +21,12 @@ To further secure environments such as Metasploitable 2, organizations should:
 This project serves as a hands-on demonstration of the potential impacts of vulnerabilities in unprotected systems and underscores the critical role of proactive security measures in maintaining robust cybersecurity defenses.
 
 ---
-## Team
 
-| [**Shady Mohamed Abdel Gawad**] | [**Hussein Al-Yamnii Zain Al-Deen**] | [**Mohamed Ashraf Mohamed Lotfy**] | [**Abdel Rahman Ahmed Abdel Hamid**] | [**Omar Ahmed Badr**] | [**Ziad Alaa**]
-|--------------------|:---------------------:|
-| ![image](https://github.com/user-attachments/assets/edcb8ec3-a9d1-426d-8a58-335fc76bd208) | ![image](https://github.com/user-attachments/assets/dfffa222-6d46-4c2e-93c7-01aaa26502db)
- | ![image](https://github.com/user-attachments/assets/0aababcf-c388-4064-9b0b-cb215a0bf056)
- | ![image](https://github.com/user-attachments/assets/80980a38-b841-4f66-8dc2-a99a871bcaf9)
  
 ## Team
 
-| [**Shady Mohamed Abdel Gawad**] | [Abdallah Adham](https://github.com/0xSkorpioN) |
-|--------------------|:---------------------:|
-| ![image](https://github.com/user-attachments/assets/edcb8ec3-a9d1-426d-8a58-335fc76bd208) | <img align="left" width="125" height="125" src="/Images/skorpion.png" /> | 
+| **Shady Mohamed Abdel Gawad** | **Hussein Al-Yamnii Zain Al-Deen** | **Mohamed Ashraf Mohamed Lotfy** | **Abdel Rahman Ahmed Abdel Hamid** | **Omar Ahmed Badr** | **Ziad Alaa**
+|--------------------|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|
+| ![image](https://github.com/user-attachments/assets/edcb8ec3-a9d1-426d-8a58-335fc76bd208) | ![image](https://github.com/user-attachments/assets/dfffa222-6d46-4c2e-93c7-01aaa26502db) | ![image](https://github.com/user-attachments/assets/0aababcf-c388-4064-9b0b-cb215a0bf056) | ![image](https://github.com/user-attachments/assets/80980a38-b841-4f66-8dc2-a99a871bcaf9)
 
-## Team Members
-- Shady Mohamed Abdel Gawad
-- Hussein Al-Yamnii Zain Al-Deen
-- Ziad Alaa
-- Mohamed Ashraf Mohamed Lotfy
-- Omar Ahmed Badr
-- Abdel Rahman Ahmed Abdel Hamid
+
